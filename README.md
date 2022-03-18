@@ -1,0 +1,2 @@
+# RoomAPI
+API listing rooms.
